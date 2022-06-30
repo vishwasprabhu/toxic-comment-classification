@@ -13,7 +13,7 @@ Wikipedia comments which have been labeled by human raters for toxic behavior in
 
 ## Model:
 We used different sequential models to tackle this problem. We started with a basic Vanilla RNN network with a linear layer to get the prediction. We picked gensim pretrained embeddings. Later we also tried LSTM and GRU modules. 
-The basic architecture with GRU/LSTM units are:
+The basic architecture with GRU/LSTM units is:
 <p align="center" float="left"><img src="images/model_arc.png" height="300" width="500"></p></br>
 
 
