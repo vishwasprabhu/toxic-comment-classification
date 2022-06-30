@@ -18,8 +18,9 @@ The basic architecture with GRU/LSTM units is:
 
 ## Evaluation
 
-We used micro average AUC score to evaluate model as that is considered as a better metric for imbalanced data
-<p align="center" float="left"><img src="images/word_cloud.png" height="300" width="500"></p></br>
+We used micro average AUC score to evaluate model as that is considered as a better metric for imbalanced data. From the below table, we can infer that the sequential models have a lot better performance than Random Forest.
+
+<p align="center" float="left"><img src="images/Screen Shot 2022-06-30 at 12.09.45 PM.png" height="300" width="500"></p></br>
 
 
 ## References: 
