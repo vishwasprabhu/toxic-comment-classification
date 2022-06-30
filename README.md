@@ -11,6 +11,13 @@ https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challeng
 <p align="center" float="left"><img src="images/word_cloud.png" height="300" width="500"></p></br>
 Wikipedia comments which have been labeled by human raters for toxic behavior into Toxic, severe_toxic, obscene, threat, Insult, identity_hate.</br>
 
+## Model:
+We used different sequential models to tackle this problem. We started with a basic Vanilla RNN network with a linear layer to get the prediction. We picked gensim pretrained embeddings. Later we also tried LSTM and GRU modules. 
+The basic architecture with GRU/LSTM units are:
+<p align="center" float="left"><img src="images/word_cloud.png" height="300" width="500"></p></br>
+
+
+
 ## References: 
 Jigsaw
 Conversation AI
