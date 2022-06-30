@@ -16,6 +16,10 @@ We used different sequential models to tackle this problem. We started with a ba
 The basic architecture with GRU/LSTM units is:
 <p align="center" float="left"><img src="images/model_arc.png" height="300" width="500"></p></br>
 
+## Evaluation
+
+We used micro average AUC score to evaluate model as that is considered as a better metric for imbalanced data
+<p align="center" float="left"><img src="images/word_cloud.png" height="300" width="500"></p></br>
 
 
 ## References: 
