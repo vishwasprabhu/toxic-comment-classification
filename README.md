@@ -9,7 +9,8 @@ To build a multi-class NLP classifier which identifies different types of toxic 
 https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
 
 <p align="center" float="left"><img src="images/word_cloud.png" height="300" width="500"></p></br>
-Wikipedia comments which have been labeled by human raters for toxic behavior into Toxic, severe_toxic, obscene, threat, Insult, identity_hate.
+Wikipedia comments which have been labeled by human raters for toxic behavior into Toxic, severe_toxic, obscene, threat, Insult, identity_hate.</br>
+
 ## References: 
 Jigsaw
 Conversation AI
